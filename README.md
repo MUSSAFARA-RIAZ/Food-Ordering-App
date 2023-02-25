@@ -1,6 +1,13 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Food delievery app
+## Features
+1)Search Functionality 
+2) Login and Signup 
+3) Category wise filtering 
+4)Jwt Token and bycrypt.js 
+
 
 ## Available Scripts
 
