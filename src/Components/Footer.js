@@ -3,6 +3,7 @@ import { NavLink } from 'react-router-dom'
 
 export default function Footer() {
   return (
+    
  
     <div className='p-100'>
       <div className='text-center bg-dark text-light  '>
